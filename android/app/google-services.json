@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "928652628490",
+    "project_id": "tech-9fb90",
+    "storage_bucket": "tech-9fb90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928652628490:android:6d308044056626c0c545f3",
+        "android_client_info": {
+          "package_name": "com.edu.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928652628490-73u4toor2c53671q8ek33im7fpt4b4o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQFqE_RAVW3VohqBEUu87g8VuNEcamCWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928652628490-73u4toor2c53671q8ek33im7fpt4b4o8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928652628490-7bahnudkhhnlb0537oju52g99lhlft0o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Technicalisto.tech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
